@@ -35,7 +35,7 @@ The dataset utilized for this analysis is sourced from [Kaggle](https://www.kagg
 - ### Trend of Number of Crimes Over Time
 - **Plotting the Trend**: A plot is created to visualize the trend of the number of crimes recorded over time. This analysis helps identify any significant fluctuations or patterns in crime rates, which may correlate with housing prices and sales trends.
 
-  ### Correlation Matrix
+- ### Correlation Matrix
 - **Purpose**: The correlation matrix is generated to identify relationships between numerical variables in the dataset, helping to understand how various factors are interrelated.
 - **Visualization**: A heatmap is created to represent the correlation coefficients visually. This helps to quickly identify strong positive or negative correlations, which can inform further analysis or model development.
 
