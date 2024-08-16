@@ -1,4 +1,4 @@
-# London Housing Analysis
+# London Housing Analysis with Python
 
 ## Introduction
 This project involves analyzing housing data sourced from Kaggle to understand trends in average housing prices and the number of houses sold in London over time. By leveraging various data analysis techniques, we aim to uncover valuable insights into the housing market, particularly focusing on the average housing prices and the number of transactions in different areas.
