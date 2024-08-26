@@ -44,9 +44,10 @@ The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.co
 Westminster: 1,197,877 crimes
 Camden: 693,550 crimes
 Lambeth: 713,668 crimes
-Areas with Low Crime:
 
-### City of London: 47 crimes
+### Areas with Low Crime:
+
+City of London: 47 crimes
 Richmond upon Thames: 236,300 crimes
 Kingston upon Thames: 224,944 crimes
 Interpretation:
@@ -89,5 +90,5 @@ This comprehensive analysis of the London housing market provides valuable insig
 
 ---
 
-*Report prepared by George Zacharia,  Data Analyst*
+*Report prepared by George Zacharia*
 
