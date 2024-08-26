@@ -38,7 +38,7 @@ The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.co
 
 **Finding**: Crime data varies widely across London, with some areas reporting no crimes and others experiencing significant numbers. The mean number of crimes is 2,158.35, highlighting areas with varying safety levels.
 
-### . Total Crimes by Area
+### .🚨*** Total Crimes by Area***
 ### Areas with High Crime:
 
 Westminster: 1,197,877 crimes
@@ -53,7 +53,7 @@ Interpretation:
 
 Areas like Westminster, Camden, and Lambeth have significantly higher crime rates, which could make them less attractive to potential buyers despite other positive factors. On the other hand, areas like the City of London and Kingston upon Thames, with lower crime rates, might be considered safer and more desirable.
 
-### . Total Houses Sold by Area
+### 🏘️ ***Total Houses Sold by Area***
 ### Areas with High Sales:
 
 Wandsworth: 118,608 houses sold
