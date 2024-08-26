@@ -30,11 +30,6 @@ The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.co
 
 **Finding**: The number of houses sold also varies greatly, with some areas having very few sales and others experiencing high volumes of transactions. The average number of houses sold is 3,893.99, reflecting diverse market activity.
 
-**Visualization**:
-- **Total Houses Sold Per Area**:
-  ![Houses Sold](iVBORw0KGgoAAAANSUhEUgAABKUAAANeCAYAAADDT70fAAAAOXRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjguNCwgaHR0cHM6Ly9tYXRwbG90bGliLm9yZy8fJSN1AAAACXBIWXMAAA9hAAAPYQGoP6dpAAEAAElEQVR4nOzdeVhUdeP)  
-  This visualization illustrates the number of houses sold across different areas.
-
 ### 🚨 **Analysis of Crime Data**
 
 - **Minimum Number of Crimes**: 0.0
@@ -43,24 +38,36 @@ The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.co
 
 **Finding**: Crime data varies widely across London, with some areas reporting no crimes and others experiencing significant numbers. The mean number of crimes is 2,158.35, highlighting areas with varying safety levels.
 
-**Visualization**:
-- **Total Number of Crimes Per Area**:
-  ![Crimes Distribution](AAAAOXRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjguNCwgaHR0cHM6Ly9tYXRwbG90bGliLm9yZy8fJSN1AAAACXBIWXMAAA9hAAAPYQGoP6dpAAEAAElEQVR4nOzdd3gUZeP18bMhBAKhS)  
-  This plot shows the distribution of total crimes across different areas.
+### . Total Crimes by Area
+### Areas with High Crime:
 
-### 📅 **Analysis Over Time**
+Westminster: 1,197,877 crimes
+Camden: 693,550 crimes
+Lambeth: 713,668 crimes
+Areas with Low Crime:
 
-- **Housing Prices Over Time**: 
-  - The analysis of housing prices over time shows trends and fluctuations in average prices across various areas.
-  
-  ![Prices Over Time](link_to_prices_over_time_plot)  
-  This visualization illustrates the change in housing prices in different areas over time.
+### City of London: 47 crimes
+Richmond upon Thames: 236,300 crimes
+Kingston upon Thames: 224,944 crimes
+Interpretation:
 
-- **Houses Sold Over Time**: 
-  - Trends in the number of houses sold over time provide insights into market activity and demand.
+Areas like Westminster, Camden, and Lambeth have significantly higher crime rates, which could make them less attractive to potential buyers despite other positive factors. On the other hand, areas like the City of London and Kingston upon Thames, with lower crime rates, might be considered safer and more desirable.
 
-  ![Houses Sold Over Time](iVBORw0KGgoAAAANSUhEUgAABJ0AAALACAYAAAA5cANUAAAAOXRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjguNCwgaHR0cHM6Ly9tYXRwbG90bGliLm9yZy8fJSN1AAAACXBIWXMAAA9hAAAPYQGoP6dpAAEAAElEQVR4nOzdd3xT9foH8E)  
-  This plot represents the total number of houses sold over time.
+### . Total Houses Sold by Area
+### Areas with High Sales:
+
+Wandsworth: 118,608 houses sold
+Bromley: 110,245 houses sold
+Croydon: 105,603 houses sold
+
+### Areas with Low Sales:
+
+City of London: 2,824 houses sold
+Camden: 53,279 houses sold
+Hackney: 50,108 houses sold
+Interpretation:
+
+High sales in areas like Wandsworth, Bromley, and Croydon indicate high demand, possibly due to a combination of factors such as affordability, amenities, and transportation links. Lower sales in areas like the City of London and Hackney might suggest limited housing availability or higher prices that deter buyers.
 
 ### 🏙️ **Areas with Highest and Lowest Prices**
 
@@ -69,10 +76,6 @@ The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.co
 
 **Finding**: Kensington and Chelsea have the highest average housing price, while the North East has the lowest. This indicates a significant disparity in housing market conditions across different regions.
 
-**Visualization**:
-- **Areas with Highest and Lowest Prices**:
-  ![Highest and Lowest Prices](iVBORw0KGgoAAAANSUhEUgAAA3IAAAKaCAYAAAB7t2u6AAAAOXRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjguNCwgaHR0cHM6Ly9tYXRwbG90bGliLm9yZy8fJSN1AAAACXBIWXMAAA9hAAAPYQGoP6dpAACtNklEQVR4nOzdeXxU1f3)  
-  This plot highlights the areas with the highest and lowest average housing prices.
 
 ## 💡 Recommendations
 Based on the findings:
@@ -82,7 +85,7 @@ Based on the findings:
 3. **Market Trends**: Understanding price trends over time helps anticipate future market conditions and make informed purchasing or selling decisions.
 
 ## 📝 Conclusion
-This comprehensive analysis of the London housing market provides valuable insights into housing prices, sales activity, and crime statistics across different areas. By leveraging these insights, clients can make well-informed decisions regarding property investments and purchases. The data highlights the diversity in the housing market and underscores the importance of considering both price and safety factors.
+This comprehensive analysis of the London housing market provides valuable insights into housing prices, sales activity, and crime statistics across different areas. Clients can make well-informed decisions regarding property investments and purchases by leveraging these insights. The data highlights the diversity in the housing market and underscores the importance of considering both price and safety factors.
 
 ---
 
