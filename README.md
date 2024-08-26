@@ -1,7 +1,7 @@
 # 🏡 London Housing Data Analysis
 
 ## 📌 Project Objective
-This project aims to analyze the London housing market to uncover insights about housing prices, the number of houses sold, and crime statistics across various areas over time. This analysis aims to assist clients in making informed decisions by understanding price trends and crime rates in different regions.
+This project analyzes the London housing market to uncover insights about housing prices, the number of houses sold, and crime statistics across various areas over time. This analysis aims to assist clients in making informed decisions by understanding price trends and crime rates in different regions.
 
 ## 📊 Data Source
 The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.com), which provides comprehensive data on housing prices, crime statistics, and related attributes for London.
