@@ -21,10 +21,6 @@ The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.co
 
 **Finding**: Housing prices vary significantly across London, with some areas having average prices as high as £1,463,378 and others as low as £40,722. The average price across all areas is £263,519, indicating a wide range of market conditions.
 
-**Visualization**:
-- **Distribution of Housing Prices Per Area**:
-  ![Housing Prices](link_to_housing_prices_plot)  
-  This plot shows the distribution of average housing prices across different areas.
 
 ### 📈 **Analysis of Houses Sold**
 
@@ -36,7 +32,7 @@ The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.co
 
 **Visualization**:
 - **Total Houses Sold Per Area**:
-  ![Houses Sold](link_to_houses_sold_plot)  
+  ![Houses Sold](iVBORw0KGgoAAAANSUhEUgAABKUAAANeCAYAAADDT70fAAAAOXRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjguNCwgaHR0cHM6Ly9tYXRwbG90bGliLm9yZy8fJSN1AAAACXBIWXMAAA9hAAAPYQGoP6dpAAEAAElEQVR4nOzdeVhUdeP)  
   This visualization illustrates the number of houses sold across different areas.
 
 ### 🚨 **Analysis of Crime Data**
@@ -49,7 +45,7 @@ The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.co
 
 **Visualization**:
 - **Total Number of Crimes Per Area**:
-  ![Crimes Distribution](link_to_crimes_distribution_plot)  
+  ![Crimes Distribution](AAAAOXRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjguNCwgaHR0cHM6Ly9tYXRwbG90bGliLm9yZy8fJSN1AAAACXBIWXMAAA9hAAAPYQGoP6dpAAEAAElEQVR4nOzdd3gUZeP18bMhBAKhS)  
   This plot shows the distribution of total crimes across different areas.
 
 ### 📅 **Analysis Over Time**
@@ -63,7 +59,7 @@ The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.co
 - **Houses Sold Over Time**: 
   - Trends in the number of houses sold over time provide insights into market activity and demand.
 
-  ![Houses Sold Over Time](link_to_houses_sold_over_time_plot)  
+  ![Houses Sold Over Time](iVBORw0KGgoAAAANSUhEUgAABJ0AAALACAYAAAA5cANUAAAAOXRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjguNCwgaHR0cHM6Ly9tYXRwbG90bGliLm9yZy8fJSN1AAAACXBIWXMAAA9hAAAPYQGoP6dpAAEAAElEQVR4nOzdd3xT9foH8E)  
   This plot represents the total number of houses sold over time.
 
 ### 🏙️ **Areas with Highest and Lowest Prices**
@@ -75,7 +71,7 @@ The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.co
 
 **Visualization**:
 - **Areas with Highest and Lowest Prices**:
-  ![Highest and Lowest Prices](link_to_highest_lowest_prices_plot)  
+  ![Highest and Lowest Prices](iVBORw0KGgoAAAANSUhEUgAAA3IAAAKaCAYAAAB7t2u6AAAAOXRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjguNCwgaHR0cHM6Ly9tYXRwbG90bGliLm9yZy8fJSN1AAAACXBIWXMAAA9hAAAPYQGoP6dpAACtNklEQVR4nOzdeXxU1f3)  
   This plot highlights the areas with the highest and lowest average housing prices.
 
 ## 💡 Recommendations
