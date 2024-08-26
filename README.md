@@ -38,7 +38,7 @@ The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.co
 
 **Finding**: Crime data varies widely across London, with some areas reporting no crimes and others experiencing significant numbers. The mean number of crimes is 2,158.35, highlighting areas with varying safety levels.
 
-### .🚨*** Total Crimes by Area***
+### 🚨*** Total Crimes by Area***
 ### Areas with High Crime:
 
 Westminster: 1,197,877 crimes
